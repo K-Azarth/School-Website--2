@@ -1,0 +1,59 @@
+#boom {
+    background-color: aquamarine;
+    font-family: fantasy;
+    font-size: 18;
+}
+
+#video {
+    border-radius: 200;
+    width: 100%;
+    height: 600px;
+}
+
+#details {
+    font-size: medium;
+    font-family: Impact;
+    font-weight: bold;
+    font-style: italic;
+    background-position-x: left;
+}
+
+p {
+    font-size: 25px;
+    font-family: Arial Black;
+    font-style: italic;
+}
+
+#lime {
+    height: 500px;
+    width: 100%;
+}
+
+#life {
+    text-align: center;
+}
+
+.places
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none; 
+    text-align: center; 
+}
+
+.places img
+{
+  width: 33.33%;
+  height: 300;     
+}
+
+.places hr
+{
+    width: 230px; 
+}
+
+.places h5 , .places p
+{
+margin-left: 20px;
+}
