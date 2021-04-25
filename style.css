@@ -58,7 +58,7 @@ p {
 margin-left: 20px;
 }
 
-.succea_head
+.omve_head
 {
     font-size: 20px;
     padding: 6px 22px;
@@ -68,12 +68,12 @@ margin-left: 20px;
     display: inline-block;
 }
 
-.succes_head i
+.omve_head i
 {
 float: right;
 }
 
-.succes_text span
+.omve_text span
 {
 color: green;
 }
