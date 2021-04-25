@@ -57,7 +57,8 @@ p {
 {
 margin-left: 20px;
 }
-.movie_head
+
+.succea_head
 {
     font-size: 20px;
     padding: 6px 22px;
@@ -67,12 +68,12 @@ margin-left: 20px;
     display: inline-block;
 }
 
-.movie_head i
+.succes_head i
 {
 float: right;
 }
 
-.movie_text span
+.succes_text span
 {
 color: green;
 }
